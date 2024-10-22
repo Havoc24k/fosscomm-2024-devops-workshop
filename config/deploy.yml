@@ -6,7 +6,7 @@ image: havoc24k/fosscomm-demo
 
 # Deploy to these servers.
 servers:
-  web:
+  hosts:
     - ec2-18-159-253-213.eu-central-1.compute.amazonaws.com # 18.159.253.213 i-0c3ee4f16f52ee0e4
   # job:
   #   hosts:
